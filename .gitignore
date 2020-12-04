@@ -1,4 +1,6 @@
 /env
+/my_logs
 .DS_Store
 .ipynb_checkpoints/
 *.png
+*.h5
